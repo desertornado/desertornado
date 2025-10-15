@@ -9,7 +9,7 @@ he/him
 - **Frameworks/Technologies:** Spring Boot, GIT, other things
 - **Databases:** PostgreSQL
 - **OS:** GNU/Linux
-- ** Fav OS project: ** [Redis](https://redis.io/)
+- **Fav OS project:** [Redis](https://redis.io/)
 ## Social Links
 - [LinkedIn](https://www.linkedin.com/in/andrea-menichelli/)
 
