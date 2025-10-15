@@ -1,8 +1,8 @@
-## Hi there 👋
-# Andrea Menichelli
-he/him
-**Software Engineer**
 
+# Andrea Menichelli
+<br>he/him
+**Software Engineer**
+## Hi there 👋
 ## Skills
 - **Languages:** Java, Python, C, C++
 - 🌱 Rust, Typescript, Angular
