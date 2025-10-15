@@ -4,7 +4,7 @@ he/him
 **Software Engineer**
 
 ## Skills
-- **Languages:** Java, Python, C, C++, 
+- **Languages:** Java, Python, C, C++
 - 🌱 Rust, Typescript, Angular
 - **Frameworks/Technologies:** Spring Boot, GIT, other things
 - **Databases:** PostgreSQL
