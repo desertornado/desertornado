@@ -1,6 +1,6 @@
 
 # Andrea Menichelli
-<br>he/him
+<br>he/him<br>
 **Software Engineer**
 ## Hi there 👋
 ## Skills
