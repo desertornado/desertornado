@@ -13,7 +13,7 @@ he/him
 ## Social Links
 - [LinkedIn](https://www.linkedin.com/in/andrea-menichelli/)
 
-## Quote
+## Fav Quote
 > "What I cannot create, I do not understand" – Richard Feynman
 <!--
 **desertornado/desertornado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
