@@ -5,9 +5,9 @@ he/him<br>
 ## Hi there 👋
 ## Skills
 - **Languages:** Java, Python, C, C++
-- 🌱 Rust, Typescript, Angular
-- **Frameworks/Technologies:** Spring Boot, GIT, other things
-- **Databases:** PostgreSQL
+- Learning: Rust, Typescript, Angular, MongoDB, Redis, Kafka
+- **Frameworks/Technologies:** Spring Boot, GIT, Docker, K8S, other things
+- **Databases:** PostgreSQL, Oracle, MySQL
 - **OS:** GNU/Linux
 - **Fav OS project:** [Redis](https://redis.io/)
 ## Social Links
